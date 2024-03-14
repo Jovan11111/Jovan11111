@@ -12,6 +12,6 @@
 
 ### 🔭 I’m currently working on
 - Mastermind game, and an algorithm that can solve it in less then 5 moves
-- Design Pattern study guide
+- Design Patterns study guide
 - Personal Blog page
 
