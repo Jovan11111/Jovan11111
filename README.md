@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Jovan</h1>
-<h3 align="center">software engineering student at University of Belgrade, and part-time digital verification engineer at Infineon Technologies Belgrade</h3>
+<h3 align="center">Software engineering student at University of Belgrade, and part-time digital verification engineer at Infineon Technologies Belgrade</h3>
 
 ###  🌱 I’m currently learning about
 - learning system engineering
