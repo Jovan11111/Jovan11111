@@ -1,7 +1,7 @@
-# Hello, I'm Jovan
-### I'm a software engineering student at University of Belgrade, and part-time digital verification engineer at Infineon Technologies Belgrade
+<h1 align="center">Hello, I'm Jovan</h1>
+<h3 align="center">software engineering student at University of Belgrade, and part-time digital verification engineer at Infineon Technologies Belgrade</h3>
 
-###  🌱 I’m currently 
+###  🌱 I’m currently learning about
 - learning system engineering
 - optimization algorithms 
 
