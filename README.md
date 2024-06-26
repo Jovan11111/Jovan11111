@@ -11,7 +11,7 @@
 
 
 #### 🔭 I’m currently working on
-- Mastermind game, and an algorithm that can solve it in less then 5 moves
+- Myown text editor
 - Design Patterns study guide
 - Personal Blog page
 
